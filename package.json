@@ -1,0 +1,14 @@
+{
+  "name": "Slack-Notification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ShivanandAK/Slack-Notification.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "axios": "^1.6.8"
+  }
+}
