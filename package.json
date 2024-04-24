@@ -1,13 +1,18 @@
 {
-  "name": "Slack-Notification",
+  "name": "custom-Slack-Notification",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ShivanandAK/Slack-Notification.git",
+  "repository": "https://github.com/Shivanandkkhh/shopify-forms-slack-notification.git",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.0"
   },
+  "type": "module",
   "devDependencies": {
     "axios": "^1.6.8"
   }
